@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/OpenCUMT">
-    <img src="https://cdn.jsdelivr.net/gh/opencumt/.github@main/assets/brand.png" alt="brand" style="width: 55%" />
+    <img src="https://cdn.jsdelivr.net/gh/opencumt/.github@main/assets/brand.png" alt="brand" style="width: 500px" />
   </a>
   <p><em>Open Source Association of China University of Mining and Technology</em></p>
 </div>
